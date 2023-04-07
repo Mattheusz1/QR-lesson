@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    background-color: hsl(219, 15%, 55%);
+    font-family: 'outfit';
+    margin-top: 13% ;
+}
+
+/* QR CODE */
+
+.main--background {
+    background: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 15rem;
+    height: 25rem;
+    margin: auto;
+}
+
+img{
+    border-radius: 7px;
+    height: 210px;
+    margin: 15px;
+}
+
+/* primeiro texto */
+
+.frame--first {
+    background: hsl(0, 0%, 100%);
+    color: #1F3251;
+    height: 3rem;
+    border-radius: 10px;
+    margin: 0px 15px 10px;
+}
+
+#text--first {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/* segundo texto */
+
+.frame--second {
+    background: hsl(0, 0%, 100%);
+    color: hsla(216, 2%, 52%, 0.5);
+    height: 5rem;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+#text--second {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    padding-top: 2px;
+}
+
+/* "footer" */
+
+.attribution {
+    font-size: 11px; 
+    text-align: center; 
+    margin-top: 10px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
