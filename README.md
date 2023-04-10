@@ -7,4 +7,3 @@ Consegui clarear a mente e finalmente entender como centralizar um "div" dentro 
 
 - Instagram - [@7heeusz](https://www.instagram.com/7heeusz/)
 - Frontend Mentor - [@Mattheusz1](https://www.frontendmentor.io/profile/Mattheusz1)
-- Linkedin - [Matheus Aquino](https://www.linkedin.com/in/matheus-aquino-06a39a230/)
